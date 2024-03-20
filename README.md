@@ -1,5 +1,5 @@
 # Snowflake Native SDK for Connectors
-
+export GITHUB_TOKEN=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
 ## About the Snowflake Native SDK for Connectors
 
 The Snowflake Native SDK for Connectors (Phase 1 of the release) is a set of application templates and quickstarts that show how to build a Snowflake Native App that ingests data from an external data source into Snowflake. These templates cover  pull-based and push-based data integration patterns. 
